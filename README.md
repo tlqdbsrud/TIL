@@ -52,4 +52,4 @@
 
 - asset과 text 파일 존재, Unity 정보 기록
 - 에디터의 Edit > Project Settings 등에서 설정된 설정 값들을 저장
-- `**ProjectSetting.asset**` : 가장 많이 수정하게 될 setting
+- `ProjectSetting.asset` : 가장 많이 수정하게 될 setting
